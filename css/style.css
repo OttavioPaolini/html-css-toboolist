@@ -1,0 +1,41 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: royalblue;
+    /* background-color: hsl(200deg 20% 97%); */
+}
+
+/* COMMON */
+.container{
+    margin: 50px 15px 100px;
+    align-items: center; 
+    background-color: cyan;
+}
+.val{
+    vertical-align: middle;
+}
+.mt{
+    margin-top: 10px;
+}
+.mb{
+    margin-bottom: 10px;
+}
+.inb{
+    display:inline
+}
+/* HEADER BANNER */
+
+.banner{
+    background-color: white;   
+}
+
+/* HEADER BUTTON */
+
+.button{
+
+}
+
